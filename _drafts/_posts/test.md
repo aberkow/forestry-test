@@ -1,5 +1,13 @@
 ---
 title: Test
-date: '2016-09-19 20:36:55'
+date: '2016-09-19 20:36:00'
 layout: post
 ---
+This is a test of forestry.io. I'm curious to see how it works... 
+
+{% highlight javascript %}
+const foo = 12;
+console.log(foo);
+{% endhighlight %}
+
+![]({{ site.baseurl }}/forestryio/images/Adam02_DSC0469b.jpg)
